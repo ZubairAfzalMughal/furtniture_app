@@ -1,4 +1,4 @@
-# furtniture_app
+# furniture_app
 
 ![Screenshot_1592053715](https://user-images.githubusercontent.com/57314430/84569727-28db7680-ada2-11ea-8183-d2e8c038671e.png)
 ![Screenshot_1592053722](https://user-images.githubusercontent.com/57314430/84569729-2a0ca380-ada2-11ea-91e1-122abe42d53c.png)
